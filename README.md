@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**Taylon-00/Taylon-00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Bem-vindo ao Taylon | DEV
 
 Here are some ideas to get you started:
 
@@ -12,5 +9,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ...-->
