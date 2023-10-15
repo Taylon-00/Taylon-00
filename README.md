@@ -10,3 +10,99 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
+<!-- Cabeçalho -->
+
+
+<h1 align="center">
+  <br>
+  <a href=""><img src="https://github.com/MarcusTechs/MarcusTechs/assets/138902771/635d53ce-c3eb-4d64-8609-a582963a34bc" alt="Markdownify" width="200"></a>
+  <br>
+  Taylon
+	
+  <br>
+  
+</h1>
+<div align="center">
+    <a href="">
+        <img src="https://img.shields.io/badge/Portefólio-1E772C?style=for-the-badge&logo=GitHub" alt="Portfólio">
+  <div align="center">
+	  
+</div>
+<a href="https://docs.github.com/en/developers" target="_blank"><img src="https://raw.githubusercontent.com/acervenky/acervenky/master/assets/devbadge.gif" width="40" height="40"></a>  <a href="https://archiveprogram.github.com/" target="_blank"><img src="https://raw.githubusercontent.com/acervenky/acervenky/master/assets/acbadge.gif" width="40" height="40"></a> 
+
+</div>
+<p align="center">
+  
+  <a href="https://www.linkedin.com/in/marcus-erick-874bba268/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://github.com/MarcusTechs">
+  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&labelColor=181717&logoColor=white&font=Pacifico" alt="Github">
+</a>
+
+
+</p>
+</div>
+
+<h4 align="center"> Desenvolvedor Coadjuvante, Técnico de Suporte em TI, Cursando: Análise e Desenvolvimento de Sistemas</h4>
+
+<!-- Fim do Cabeçalho -->
+<p align="center">
+</a>
+    <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black"
+         alt="Gitter">
+  </a>
+      <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+  </a>
+  <img src="https://img.shields.io/badge/GitHub%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Code">
+</a>
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  </a>
+<img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
+   </a>
+   <img src="https://img.shields.io/badge/GNU-A42E2B?style=for-the-badge&logo=gnu&logoColor=white" alt="GNU">
+
+</p>
+
+
+</h3>
+    </td>
+  </tr>
+</table>
+</div>
+
+<!-- Fim dos Status -->
+***
+
+
+<h2 align="center">
+  <img src="https://github.com/MarcusTechs/MarcusTechs/assets/138902771/3e73dc8d-3762-4cfc-ad23-e7bf73f438d5" alt="Projetos" width="30px" style="vertical-align: middle;">Cursos gratuitos
+</h2>
+<p align="center">
+<a href="https://github.com/marcustechs/Free-way">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarcusTechs&repo=Free-way&theme=dark" />
+</a>
+
+***
+<div align="center">
+    <h2>
+        <img src="https://github.com/MarcusTechs/MarcusTechs/assets/138902771/8c8a148a-1798-4ba1-ae22-bb136df716db" alt="Github Stats" width="30px" style="vertical-align: middle;">
+        Softwares e Ferramentas
+    </h2>
+    <img alt="Kali linux" width="60px" src="https://github.com/MarcusTechs/MarcusTechs/assets/138902771/3e081c6c-9e34-4936-a133-2bca1a9fe722" />
+    <img alt="Metasploit" width="50px" src="https://github.com/MarcusTechs/MarcusTechs/assets/138902771/5c4e5f42-3ea6-4bea-843a-328aea4557a1" />
+    <img alt="John" width="60px" src="https://github.com/MarcusTechs/MarcusTechs/assets/138902771/bdb50352-12e9-48dc-ad95-1c4cd47fb7b1" />
+    <img alt="Terminal" width="60px" src="https://github.com/MarcusTechs/MarcusTechs/assets/138902771/048b2bc7-239d-4401-98a8-922395ccc691" />
+    <img alt="ShellScript" width="60px" src="https://github.com/MarcusTechs/MarcusTechs/assets/138902771/56060f3a-1eb8-4c8f-aa1b-c3ebc459e85a" />
+    <img alt="Photoshop" width="60px" src="https://github.com/MarcusTechs/MarcusTechs/assets/138902771/ed47c4b9-f811-4aa9-8d05-c5b634264fd0" />
+    <img alt="Apache" width="60px" src="https://github.com/MarcusTechs/MarcusTechs/assets/138902771/fce88727-c2e4-4fc1-930f-abd67829f77d" />
+    <img alt="Visual Studio Code" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+    <img alt="Wireshark" width="60px" src="https://github.com/MarcusTechs/MarcusTechs/assets/138902771/c422f7f2-cc37-40bf-8d9a-64bad1820dbb" />
+</div>
+
+***
+
+<h1 align="center">
+  <img src="https://github.com/MarcusTechs/MarcusTechs/assets/138902771/a218165b-4844-4796-8007-559f05f58d62" alt="Github Stats" width="30px" style="vertical-align: middle;"> Meus repositorios
+  <img src="https://github.com/MarcusTechs/MarcusTechs/assets/138902771/a218165b-4844-4796-8007-559f05f58d62" alt="Github Stats" width="30px" style="vertical-align: middle;">
+</h1>
