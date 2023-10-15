@@ -79,3 +79,16 @@
   <img src="https://github.com/MarcusTechs/MarcusTechs/assets/138902771/a218165b-4844-4796-8007-559f05f58d62" alt="Github Stats" width="30px" style="vertical-align: middle;"> Meus Repositórios
   <img src="https://github.com/MarcusTechs/MarcusTechs/assets/138902771/a218165b-4844-4796-8007-559f05f58d62" alt="Github Stats" width="30px" style="vertical-align: middle;">
 </h1>
+
+<h1>Atividade</h1>
+<!-- visitors count  -->
+
+<p align="center" >   
+  <img src="https://profile-counter.glitch.me/Taylon-00/count.svg" />  
+</p>
+
+<!-- github workflow  -->
+
+ ![github contribution grid snake animation](https://raw.githubusercontent.com/devjosecarlosteles/devjosecarlosteles/output/github-contribution-grid-snake.svg)
+
+
