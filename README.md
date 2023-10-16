@@ -47,14 +47,15 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Taylon-00&" alt="Taylon-00" /></p>
 
 <h2></h2>
-<div align="center">
-    <h2>
-        <img src="https://github.com/Taylon-00/Taylon-00/blob/main/img/github.gif" alt="Github Stats" width="50px" style="vertical-align: middle;">Cursos
-<div></div>
-        <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<h2 align="center">
+  <img src="https://github.com/MarcusTechs/MarcusTechs/assets/138902771/3e73dc8d-3762-4cfc-ad23-e7bf73f438d5" alt="Projetos" width="30px" style="vertical-align: middle;">Cursos gratuitos
 
-<br>
-<h2>
+<p align="center">
+<a href="https://github.com/marcustechs/Free-way">
+ <img align="center" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
+</a>
+    <h2>
+
 <div align="center">
     <h2>
         <img src="https://github.com/MarcusTechs/MarcusTechs/assets/138902771/8c8a148a-1798-4ba1-ae22-bb136df716db" alt="Github Stats" width="50px" style="vertical-align: middle;">
