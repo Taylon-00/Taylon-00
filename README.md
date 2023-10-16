@@ -4,8 +4,14 @@
 
 <h1 align="center">
   <br>
-  <img src="https://github.com/Taylon-00/Taylon-00/blob/main/img/Tecnologia.png" alt="Logo Tecnologia" width="50%"></a>
+  <img src="https://github.com/Taylon-00/Taylon-00/blob/main/img/Tecnologia.png" alt="Logo Tecnologia" width="500px"></a>
   <br>
+<div>
+  <a href="https://github.com/Taylon-00"
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Taylon-00&show_icons=true&treme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Taylon-00&layout=compact&langs_count=168theme=dracula"/>
+</div>
+<br>
   Taylon
 	
   <br>
