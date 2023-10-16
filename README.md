@@ -4,7 +4,7 @@
 
 <h1 align="center">
   <br>
-  <a href=""><img src="" alt="" width="200"></a>
+  <img src="https://github.com/Taylon-00/Taylon-00/blob/main/img/Tecnologia.png" alt="Logo Tecnologia" width="50%"></a>
   <br>
   Taylon
 	
@@ -58,18 +58,16 @@
 </div>
 
 <!-- Fim dos Status -->
-***
 
 
 <h2 align="center">
-  <img src="https://github.com/MarcusTechs/MarcusTechs/assets/138902771/3e73dc8d-3762-4cfc-ad23-e7bf73f438d5" alt="Projetos" width="30px" style="vertical-align: middle;">Cursos gratuitos
+  <img src="" alt="Projetos" width="30px" style="vertical-align: middle;">Cursos gratuitos
 </h2>
-<p align="center">
-<a href="">
- <img align="center"" />
-</a>
 
-***
+<!-- Gif do curso -->
+<img align="center">
+        <img src="https://github.com/Taylon-00/Taylon-00/blob/main/img/cursos.gif" alt="C" width="20%" align="center" style="vertical-align: middle">
+
 <div align="center">
     <h2>
         <img src="https://github.com/MarcusTechs/MarcusTechs/assets/138902771/8c8a148a-1798-4ba1-ae22-bb136df716db" alt="Github Stats" width="50px" style="vertical-align: middle;">
@@ -82,6 +80,6 @@ Engajamento GitHub | CODE</h2>
 
 <!-- github workflow  -->
 
- ![github contribution grid snake animation](https://raw.githubusercontent.com///output/github-contribution-grid-snake.svg)
+ ![github contribution grid snake animation](https://github.com/Taylon-00/Taylon-00/blob/main/img/github-contribution-grid-snake.svg)
 
 
