@@ -6,6 +6,7 @@
 <img src="https://github.com/Taylon-00/Taylon-00/blob/main/img/Tecnologia.png" alt="Logo Tecnologia" width="500px"></a>
   <br>
    Francisco Taylon	
+<p>
 <div align="center">
     <a href="https://taylon-00.github.io/portfolio/">
         <img src="https://img.shields.io/badge/Portefólio-1E772C?style=for-the-badge&logo=GitHub" alt="Portfólio">
