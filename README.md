@@ -6,15 +6,9 @@
   <br>
   <img src="https://github.com/Taylon-00/Taylon-00/blob/main/img/Tecnologia.png" alt="Logo Tecnologia" width="500px"></a>
   <br>
-<div>
-  <a href="https://github.com/Taylon-00"
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Taylon-00&show_icons=true&treme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Taylon-00&layout=compact&langs_count=168theme=dracula"/>
-</div>
 <br>
   Taylon
-	
-  <br>
+<br>
   
 </h1>
 <div align="center">
@@ -53,10 +47,13 @@
 <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
    </a>
    <img src="https://img.shields.io/badge/GNU-A42E2B?style=for-the-badge&logo=gnu&logoColor=white" alt="GNU">
-
 </p>
-
-
+<!-- Estatistica de Commits -->
+<div>
+  <a href="https://github.com/Taylon-00"
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Taylon-00&show_icons=true&treme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Taylon-00&layout=compact&langs_count=168theme=dracula"/>
+</div>
 </h3>
     </td>
   </tr>
