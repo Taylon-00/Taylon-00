@@ -73,14 +73,7 @@
 <div align="center">
     <h2>
         <img src="https://github.com/MarcusTechs/MarcusTechs/assets/138902771/8c8a148a-1798-4ba1-ae22-bb136df716db" alt="Github Stats" width="30px" style="vertical-align: middle;">
-
-
-<h1 align="center">
-  <img src="https://github.com/MarcusTechs/MarcusTechs/assets/138902771/a218165b-4844-4796-8007-559f05f58d62" alt="Github Stats" width="30px" style="vertical-align: middle;"> Meus Repositórios
-  <img src="https://github.com/MarcusTechs/MarcusTechs/assets/138902771/a218165b-4844-4796-8007-559f05f58d62" alt="Github Stats" width="30px" style="vertical-align: middle;">
-</h1>
-
-<h1>Atividade</h1>
+Engajamento GitHub | CODE</h2>
 <!-- visitors count  -->
 
 <p align="center" >   
