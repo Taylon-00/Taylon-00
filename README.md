@@ -72,7 +72,7 @@
 ***
 <div align="center">
     <h2>
-        <img src="https://github.com/MarcusTechs/MarcusTechs/assets/138902771/8c8a148a-1798-4ba1-ae22-bb136df716db" alt="Github Stats" width="30px" style="vertical-align: middle;">
+        <img src="https://github.com/MarcusTechs/MarcusTechs/assets/138902771/8c8a148a-1798-4ba1-ae22-bb136df716db" alt="Github Stats" width="50px" style="vertical-align: middle;">
 Engajamento GitHub | CODE</h2>
 <!-- visitors count  -->
 
