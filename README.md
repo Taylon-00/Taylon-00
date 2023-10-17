@@ -26,18 +26,16 @@
 <!-- Fim do Cabeçalho -->
 <p align="center">
 </a>
-    <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black"
+    <img src="https://img.shields.io/badge/Linux-blue?style=for-the-badge&logo=linux&logoColor=black"
          alt="Gitter">
   </a>
-      <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+      <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white">
   </a>
   <img src="https://img.shields.io/badge/GitHub%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Code">
 </a>
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   </a>
 <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
    </a>
-   <img src="https://img.shields.io/badge/GNU-A42E2B?style=for-the-badge&logo=gnu&logoColor=white" alt="GNU">
 </p>
 <!-- Estatistica de Commits -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Taylon-00&show_icons=true&locale=en&layout=compact" alt="Taylon-00" /></p>
@@ -48,10 +46,10 @@
 
 <h2></h2>
 <h2 align="center">
-  <img src="https://github.com/MarcusTechs/MarcusTechs/assets/138902771/3e73dc8d-3762-4cfc-ad23-e7bf73f438d5" alt="Projetos" width="30px" style="vertical-align: middle;">Cursos Gratuitos
+  <img src="https://github.com/MarcusTechs/MarcusTechs/assets/138902771/3e73dc8d-3762-4cfc-ad23-e7bf73f438d5" alt="Projetos" width="30px" style="vertical-align: middle;"> Cursos Gratuitos
   <img src="https://github.com/MarcusTechs/MarcusTechs/assets/138902771/3e73dc8d-3762-4cfc-ad23-e7bf73f438d5" alt="Projetos" width="30px" style="vertical-align: middle;">
 <p></p>
-<i>APERTE NO BOTÃO, EM SEGUIDA SERÁ DIRECIONADO AOS CURSOS GRATUITOS</i>
+Aperte no botão "ACESSO AOS CURSOS"; E em seguida, será direcionado aos cursos gratuitos 👨‍🎓 👩‍🎓
 <p></p>
 	
 [![cursos](https://img.shields.io/badge/ACESSO%20AOS%20CURSOS-red)](https://github.com/Taylon-00/Cursos-Gratuitos)
@@ -65,8 +63,8 @@
 
 <div align="center">
     <h2>
-        <img src="https://github.com/MarcusTechs/MarcusTechs/assets/138902771/8c8a148a-1798-4ba1-ae22-bb136df716db" alt="Github Stats" width="50px" style="vertical-align: middle;">
-Engajamento GitHub | CODE
+        <img src="https://github.com/MarcusTechs/MarcusTechs/assets/138902771/8c8a148a-1798-4ba1-ae22-bb136df716db" alt="settings" width="50px" style="vertical-align: middle;">
+Engajamento GitHub
 
 	    
 <!-- visitors count  -->
