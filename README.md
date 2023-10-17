@@ -48,10 +48,17 @@
 
 <h2></h2>
 <h2 align="center">
-  <img src="https://github.com/MarcusTechs/MarcusTechs/assets/138902771/3e73dc8d-3762-4cfc-ad23-e7bf73f438d5" alt="Projetos" width="30px" style="vertical-align: middle;">Cursos gratuitos
+  <img src="https://github.com/MarcusTechs/MarcusTechs/assets/138902771/3e73dc8d-3762-4cfc-ad23-e7bf73f438d5" alt="Projetos" width="30px" style="vertical-align: middle;">Cursos Gratuitos
+  <img src="https://github.com/MarcusTechs/MarcusTechs/assets/138902771/3e73dc8d-3762-4cfc-ad23-e7bf73f438d5" alt="Projetos" width="30px" style="vertical-align: middle;">
+<p></p>
+<i>APERTE NO BOTÃO, EM SEGUIDA SERÁ DIRECIONADO AOS CURSOS GRATUITOS</i>
+<p></p>
+	
+[![cursos](https://img.shields.io/badge/ACESSO%20AOS%20CURSOS-red)](https://github.com/Taylon-00/Cursos-Gratuitos)
 
 <p align="center">
-<a href="https://github.com/marcustechs/Free-way">
+	
+<a>
  <img align="center" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 </a>
     <h2>
