@@ -1,11 +1,11 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=red&height=120&section=header"/>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=629CE3&size=35&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Francisco+Taylon;Análise+e+Desenvolvimento+de+Sistemas+Estácio;Bem-Vindo(a)!+:%29+Segue+o+painel+de+projetos)](https://git.io/typing-svg)
+
 ### Seja bem-vindo(a) ao meu Portal de Projetos.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Taylon-00&label=Profile%20views&color=0e75b6&style=flat" alt="Taylon-00" /> </p>
 
-<h1 align="center">
-  <br>
-<img src="https://github.com/Taylon-00/Taylon-00/blob/main/img/Tecnologia.png" alt="Logo Tecnologia" width="500px"></a>
-  <br>
-   Francisco Taylon	
+	
 <p>
 <div align="center">
     <a href="https://taylon-00.github.io/portfolio/">
