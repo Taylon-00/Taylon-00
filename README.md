@@ -75,3 +75,5 @@ Engajamento GitHub
 
 <!-- github workflow  -->
 ![github contribution grid snake animation](https://github.com/Taylon-00/Taylon-00/blob/main/img/github-contribution-grid-snake.svg)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=red&height=120&section=footer"/>
+
