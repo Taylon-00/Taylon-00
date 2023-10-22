@@ -44,26 +44,22 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Taylon-00&" alt="Taylon-00" /></p>
 
-<h2></h2>
 <h2 align="center">
   <img src="https://github.com/MarcusTechs/MarcusTechs/assets/138902771/3e73dc8d-3762-4cfc-ad23-e7bf73f438d5" alt="Projetos" width="30px" style="vertical-align: middle;"> Cursos Gratuitos
   <img src="https://github.com/MarcusTechs/MarcusTechs/assets/138902771/3e73dc8d-3762-4cfc-ad23-e7bf73f438d5" alt="Projetos" width="30px" style="vertical-align: middle;">
 	
 [![cursos](https://img.shields.io/badge/ACESSO%20AOS%20CURSOS-red)](https://github.com/Taylon-00/Cursos-Gratuitos)
 
-<p align="center">
-	
+<p align="center">	
 <a>
  <img align="center" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 </a>
-    <h2>
 
 <div align="center">
     <h2>
         <img src="https://github.com/MarcusTechs/MarcusTechs/assets/138902771/8c8a148a-1798-4ba1-ae22-bb136df716db" alt="settings" width="50px" style="vertical-align: middle;">
 Engajamento GitHub
 
-	    
 <!-- visitors count  -->
 <p>
 <p align="center" >   
@@ -72,5 +68,6 @@ Engajamento GitHub
 
 <!-- github workflow  -->
 ![github contribution grid snake animation](https://github.com/Taylon-00/Taylon-00/blob/main/img/github-contribution-grid-snake.svg)
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=red&height=120&section=footer"/>
 
