@@ -38,11 +38,12 @@
    </a>
 </p>
 <!-- Estatistica de Commits -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Taylon-00&show_icons=true&locale=en&layout=compact" alt="Taylon-00" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Taylon-00&rank_icon=github&locale=en" alt="Taylon-00" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Taylon-00&" alt="Taylon-00" /></p>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Taylon-00&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
 <h2 align="center">
   <img src="https://github.com/MarcusTechs/MarcusTechs/assets/138902771/3e73dc8d-3762-4cfc-ad23-e7bf73f438d5" alt="Projetos" width="30px" style="vertical-align: middle;"> Cursos Gratuitos
