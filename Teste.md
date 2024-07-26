@@ -54,5 +54,5 @@
 </div>
 
 <a href="https://github.com/KAYOKG">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EAE6C7&height=180&section=footer&text=What+I+don't+know%2C+give+me+a+few+days&fontSize=30&fontColor=6474B9&animation=twinkling&fontAlignY=55"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EAE6C7&height=180&section=footer&text=++'t+know%2C+++++&fontSize=30&fontColor=6474B9&animation=twinkling&fontAlignY=55"/>
 </a>
