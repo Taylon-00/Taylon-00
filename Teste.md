@@ -1,4 +1,4 @@
-<a href="https://github.com/KAYOKG"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=423A5E&height=180&section=header&text=FRANCISCO+TAYLON&fontSize=30&fontColor=E89364&animation=twinkling&fontAlignY=35"/></a>
+<a href="https://github.com/KAYOKG"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EAE6C7&height=180&section=header&text=FRANCISCO+TAYLON&fontSize=30&fontColor=E89364&animation=twinkling&fontAlignY=35"/></a>
 
 <div align="center">
   
