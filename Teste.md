@@ -1,8 +1,8 @@
-<a href="https://github.com/KAYOKG"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=423A5E&height=180&section=header&text=FRANCISCO+TAYLON&fontSize=30&fontColor=6474B9&animation=twinkling&fontAlignY=35"/></a>
+<a href="https://github.com/KAYOKG"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=423A5E&height=180&section=header&text=FRANCISCO+TAYLON&fontSize=30&fontColor=E89364&animation=twinkling&fontAlignY=35"/></a>
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6474B9&size=35&center=true&vCenter=true&width=1000&lines=HI,+I+am+Kayo+Galdino;I'm+21+years+old;I+am+from+Manhuaçu,+MG;I+study+information+systems+at+UFU;Be+Welcome!🎉)](https://github.com/KAYOKG)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6474B9&size=35&center=true&vCenter=true&width=1000&lines=HI,+I+am+Taylon;I'm+21+years+old;I+am+from+Manhuaçu,+MG;I+study+information+systems+at+UFU;Be+Welcome!🎉)](https://github.com/KAYOKG)
 
 </div>
 
