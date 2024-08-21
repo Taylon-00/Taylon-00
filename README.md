@@ -58,7 +58,6 @@
 
 <div align="center">
     <h2>
-        <img src="https://github.com/MarcusTechs/MarcusTechs/assets/138902771/8c8a148a-1798-4ba1-ae22-bb136df716db" alt="settings" width="50px" style="vertical-align: middle;">
 Engajamento GitHub
 
 <!-- visitors count  -->
