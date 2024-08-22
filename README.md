@@ -50,15 +50,14 @@
   <img src="https://github.com/MarcusTechs/MarcusTechs/assets/138902771/3e73dc8d-3762-4cfc-ad23-e7bf73f438d5" alt="Projetos" width="30px" style="vertical-align: middle;">
 	
 [![cursos](https://img.shields.io/badge/ACESSO%20AOS%20CURSOS-red)](https://github.com/Taylon-00/Cursos-Gratuitos)
-<p align="center">	
-#© 2024 Taylon-00	
+<p align="center">		
 <a>
  <img align="center" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 </a>
 
 <div align="center">
     <h2>
-Engajamento GitHub
+© 2024 - Taylon-00
 
 <!-- visitors count  -->
 <p>
