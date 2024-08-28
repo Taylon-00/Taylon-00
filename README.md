@@ -58,7 +58,7 @@
 <div align="center">
     <h2>
 	    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=629CE3&size=35&center=true&vCenter=true&width=1000&lines=©+2021-2024+Francisco+Taylon;A++)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=629CE3&size=35&center=true&vCenter=true&width=1000&lines=©+2021-2024+Francisco+Taylon;)](https://git.io/typing-svg)
 
 <!-- visitors count  -->
 <p>
