@@ -71,5 +71,7 @@
 <!-- github workflow  -->
 ![github contribution grid snake animation](https://github.com/Taylon-00/Taylon-00/blob/main/img/github-contribution-grid-snake.svg)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=120&section=footer"/>
+<a href="https://github.com/Taylon-00">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EAE6C7&height=180&section=footer&text=++'+%2C+++++&fontSize=30&fontColor=6474B9&animation=twinkling&fontAlignY=55"/>
+</a>
 
