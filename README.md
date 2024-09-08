@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=120&section=header"/>
+<a href="https://github.com/Taylon-00"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EAE6C7&height=180&section=header&text=FRANCISCO+TAYLON&fontSize=30&fontColor=E89364&animation=twinkling&fontAlignY=35"/></a>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=629CE3&size=35&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Francisco+Taylon;Análise+e+Desenvolvimento+de+Sistemas+Estácio;Bem-Vindo(a)!+:%29+Segue+o+painel+de+projetos)](https://git.io/typing-svg)
 
