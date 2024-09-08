@@ -21,8 +21,11 @@
   <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&labelColor=181717&logoColor=white&font=Pacifico" alt="Github">
 </a>
 </div>
-<h4 align="center"> Desenvolvedor Coadjuvante, Técnico de Suporte em TI, Cursando: Análise e Desenvolvimento de Sistemas</h4>
-
+<h4 align="center">
+- 💻 Cursando Análise e Desenvolvimento de Sistemas na 
+- 🚀 Apaixonado por tecnologia, open-source e desenvolvimento de software
+- 🌱 Atualmente estou aprendendo mais sobre Front-end Developer
+</h4>
 <!-- Fim do Cabeçalho -->
 <p align="center">
 </a>
