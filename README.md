@@ -22,9 +22,19 @@
 </a>
 </div>
 
-<h4 align="center">- 💻 Cursando Análise e Desenvolvimento de Sistemas na </h4>
-<h4 align="center">- 🚀 Apaixonado por tecnologia, open-source e desenvolvimento de software</h4>
-<h4 align="center">- 🌱 Atualmente estou aprendendo mais sobre Front-end Developer</h4>
+<h4 align="center"> - 💻 Cursando Análise e Desenvolvimento de Sistemas na </h4>
+<h4 align="center"> - 🚀 Apaixonado por tecnologia, open-source e desenvolvimento de software</h4>
+<h4 align="center"> - 🌱 Atualmente estou aprendendo mais sobre Front-end Developer</h4>
+
+<!-- Intervalo para campo de colunas de Hard Skills -->
+<div align="center">
+  <a href="https://github.com/Taylon-00">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=10000&pause=5000&color=E89364&vCenter=true&width=350&height=30&lines=A+LITTLE+ABOUT+MY+STUDY+FOCUS"/></a>
+
+  | <h2><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3500&color=6474B9&vCenter=true&width=110&height=20&lines=Front-end" alt="Typing SVG" /></h2> | | 
+  | - | -
+  | <h3 align="center"> <img width="100px" src="https://img.shields.io/badge/figma%20-F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/> </br> <img width="100px" src ="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=TypeScript&logoColor=white"/> </br> <img width="100px" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> </br> <img width="100px" src="https://img.shields.io/badge/react%20JS%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+
 <!-- Fim do Cabeçalho -->
 <p align="center">
 </a>
