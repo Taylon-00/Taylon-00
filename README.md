@@ -58,10 +58,7 @@
 </a>
 
 <div align="center">
-    <h2>
-	    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=629CE3&size=35&center=true&vCenter=true&width=1000&lines=©+2021-2024+Francisco+Taylon;)](https://git.io/typing-svg)
-
+<h2>
 <!-- visitors count  -->
 <p>
 <p align="center" >   
@@ -72,6 +69,6 @@
 ![github contribution grid snake animation](https://github.com/Taylon-00/Taylon-00/blob/main/img/github-contribution-grid-snake.svg)
 
 <a href="https://github.com/Taylon-00">
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EAE6C7&height=180&section=footer&text=++'+%2C+++++&fontSize=30&fontColor=6474B9&animation=twinkling&fontAlignY=55"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EAE6C7&height=180&section=footer&text=©+2021-2024+Taylon-00%2C++&fontSize=30&fontColor=6474B9&animation=twinkling&fontAlignY=55"/>
 </a>
 
