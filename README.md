@@ -58,8 +58,8 @@
 </div>
 
 <h2 align="center">
-  <img src="https://github.com/MarcusTechs/MarcusTechs/assets/138902771/3e73dc8d-3762-4cfc-ad23-e7bf73f438d5" alt="Projetos" width="30px" style="vertical-align: middle;"> Cursos Gratuitos
-  <img src="https://github.com/MarcusTechs/MarcusTechs/assets/138902771/3e73dc8d-3762-4cfc-ad23-e7bf73f438d5" alt="Projetos" width="30px" style="vertical-align: middle;">
+  <img src="https://media.tenor.com/8Er0lHRnauMAAAAi/trophy.gif" alt="Projetos" width="30px" style="vertical-align: middle;"> Cursos Gratuitos
+  <img src="https://media.tenor.com/8Er0lHRnauMAAAAi/trophy.gif" alt="Projetos" width="30px" style="vertical-align: middle;">
 	
 [![cursos](https://img.shields.io/badge/ACESSO%20AOS%20CURSOS-red)](https://github.com/Taylon-00/Cursos-Gratuitos)
 <p align="center">		
