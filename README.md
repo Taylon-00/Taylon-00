@@ -84,5 +84,5 @@
 
 <!-- Footer -->
 <a href="https://github.com/Taylon-00">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EAE6C7&height=180&section=footer&text=©+2021-2024+Taylon-00+&fontSize=30&fontColor=E89364&animation=twinkling&fontAlignY=55"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EAE6C7&height=180&section=footer&text=©+2021-2025+Taylon-00+&fontSize=30&fontColor=E89364&animation=twinkling&fontAlignY=55"/>
 </a>
