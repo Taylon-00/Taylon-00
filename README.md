@@ -73,7 +73,7 @@
 
 <div align="center">
 <h2>
-<!-- visitors count  -->
+<!--- visitors count  --->
 <p>
 <p align="center" >   
   <img src="https://profile-counter.glitch.me/Taylon-00/count.svg" />  
