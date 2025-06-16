@@ -68,9 +68,8 @@
 [![cursos](https://img.shields.io/badge/ACESSO%20AOS%20CURSOS-red)](https://github.com/Taylon-00/Cursos-Gratuitos)
 <p align="center">		
 <a>
- <img align="center" width="300" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" />
+ <img align="center" width="300" src="https://c.tenor.com/NOYF3f82b_gAAAAC/tenor.gif" />
 </a>
-
 <div align="center">
 <h2>
 <!--- visitors count  --->
